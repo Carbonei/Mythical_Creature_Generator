@@ -4,7 +4,7 @@ from PIL import Image
 context = zmq.Context()
 socket = context.socket(zmq.REQ)
 
-socket.connect("tcp://flip4.engr.oregonstate.edu:4444")
+socket.connect("tcp://localhost:4444")
 
 
 socket.send_string("1")
