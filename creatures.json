@@ -1,0 +1,44 @@
+[
+{
+    "name": "Oni",
+    "origin": "Japan",
+    "image": "./images/oni.jpg"
+},
+{
+    "name":"Leprechaun",
+    "origin": "Ireland",
+    "image": "./images/leprechaun.jpg"
+},{
+    "name": "Faerie",
+    "origin": "France",
+    "image": "./images/faerie.jpg"
+},{
+    "name": "Aqrabuamelu",
+    "origin": "Babylon",
+    "image": "./images/aqrabuamelu.jpg"
+},{
+    "name": "Griffin",
+    "origin": "Egypt",
+    "image": "./images/griffin.jpg"
+},{
+    "name": "Zonbi (Zombie)",
+    "origin": "Haiti",
+    "image": "./images/zonbi.png"
+},{
+    "name": "Hydra",
+    "origin": "Greece",
+    "image": "./images/hydra.jpg"
+},{
+    "name": "Cat Sith",
+    "origin": "Scotland",
+    "image": "./images/cat_sith.png"
+},{
+    "name": "Anansi",
+    "origin": "Ghana",
+    "image": "./images/anansi.jpg"
+},{
+    "name": "Bunyip",
+    "origin": "Australia",
+    "image": "./images/bunyip.jpg"
+}
+]
